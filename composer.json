@@ -1,0 +1,20 @@
+{
+    "name": "clanspress/clanspress",
+    "description": "Team management system plugin for Wordpress.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Clanspress\\Clanspress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Clanspress"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "wp-cli/wp-cli-bundle": "*"
+    }
+}

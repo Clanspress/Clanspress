@@ -1,0 +1,30 @@
+{
+  "name": "clanspress",
+  "version": "0.0.1",
+  "description": "Team management system plugin for Wordpress.",
+  "main": "clanspress.php",
+  "scripts": {
+    "test": "test clanspress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clanspress/Clanspress.git"
+  },
+  "keywords": [
+    "team",
+    "clan",
+    "game",
+    "esport",
+    "management",
+    "manager",
+    "tourniments",
+    "plugin",
+    "wordpress"
+  ],
+  "author": "Clanspress",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clanspress/Clanspress/issues"
+  },
+  "homepage": "https://clanspress.com"
+}
