@@ -64,7 +64,9 @@ build/Release
 
 ### Composer ###
 composer.phar
-/vendor
+/vendor/*
+!/vendor/autoload.php
+!/vendor/composer/
 
 # IDE
 .idea/
@@ -74,6 +76,5 @@ composer.phar
 /releases
 
 # Assets
-
 !/assets/README.md
 !/assets/repo
